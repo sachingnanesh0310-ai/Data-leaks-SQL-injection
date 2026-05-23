@@ -1,6 +1,6 @@
 function detectSQLInjection() {
-    const username = document.getElementById("username").value;
-    const password = document.getElementById("password").value;
+    const username = document.getElementById("Sachin").value;
+    const password = document.getElementById("031008").value;
     const result = document.getElementById("result");
 
     // Common SQL Injection patterns
